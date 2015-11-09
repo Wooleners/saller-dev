@@ -1,0 +1,29 @@
+{
+  "name": "saller-dev",
+  "version": "0.0.1",
+  "description": "javascript workflow ",
+  "main": "bin/saller",
+  "bin": {
+    "saller-dev": "./bin/saller"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wooleners/saller-dev.git"
+  },
+  "keywords": [
+    "javascript",
+    "workflow"
+  ],
+  "author": "wooleners",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wooleners/saller-dev/issues"
+  },
+  "homepage": "https://github.com/Wooleners/saller-dev#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
